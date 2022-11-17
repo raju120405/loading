@@ -1,0 +1,12 @@
+.loading-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 20px;
+    
+}
+#dots{
+    font-size: 32px;
+    font-weight: 700; 
+}
